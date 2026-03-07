@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.31](https://github.com/langchain-ai/deepagents/compare/deepagents-cli==0.0.30...deepagents-cli==0.0.31) (2026-03-07)
+
+
+### Bug Fixes
+
+* **cli:** write files with langsmith sandbox ([#1714](https://github.com/langchain-ai/deepagents/issues/1714)) ([5933c9e](https://github.com/langchain-ai/deepagents/commit/5933c9e2995c422e43649c61981e086ac1eaf725))
+
 ## [0.0.30](https://github.com/langchain-ai/deepagents/compare/deepagents-cli==0.0.29...deepagents-cli==0.0.30) (2026-03-07)
 
 ### Features
